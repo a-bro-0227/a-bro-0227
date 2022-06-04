@@ -11,7 +11,9 @@ Throughout my professional career I have developed data strategies and roadmaps,
 I like to work in cutting edge technologies ⚡ such as AWS, Snowflake, and DBT. I enjoy coding in Python, R, and SQL. I also have experience working with different visualization tool like PowerBI and Tableau 📊
 
 Outside of data, I love hanging out with my wife and dog, playing guitar, and biking! 🙆‍♀️ :dog: 🎸 🚲
+
 How to reach me: … 📫:
 alexander.c.brown319@gmail.com | [LinkedIn](https://www.linkedin.com/in/alexander-brown-b93aa029/)
+
 he/him/dude/bro
-:man
+
