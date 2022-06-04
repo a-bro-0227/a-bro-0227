@@ -14,4 +14,4 @@ Outside of data, I love hanging out with my wife and dog, playing guitar, and bi
 
 How to reach me: … 📫: alexander.c.brown319@gmail.com | 
  | 
-(LinkedIn)[https://www.linkedin.com/in/alexander-brown-b93aa029/]
+[LinkedIn](https://www.linkedin.com/in/alexander-brown-b93aa029/)
