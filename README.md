@@ -12,8 +12,14 @@ I like to work in cutting edge technologies ⚡ such as AWS, Snowflake, and DBT.
 
 Outside of data, I love hanging out with my wife and dog, playing guitar, and biking! 🙆‍♀️ :dog: 🎸 🚲
 
-How to reach me: … 📫:
-alexander.c.brown319@gmail.com | [LinkedIn](https://www.linkedin.com/in/alexander-brown-b93aa029/)
 
-he/him/dude/bro
+Cheers!🍺\
+Alex\
+*he/him/dude/bro*
+
+How to reach me: … 📫\
+alexander.c.brown319@gmail.com\
+[LinkedIn](https://www.linkedin.com/in/alexander-brown-b93aa029/)
+
+
 
